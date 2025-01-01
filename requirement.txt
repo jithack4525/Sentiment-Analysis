@@ -1,0 +1,8 @@
+pip install sciki-learn
+pip install flask
+pip install tweepy
+pip install praw
+pip install requests
+pip install joblib
+pip install python-dotenv 
+pip install pandas
